@@ -1,0 +1,11 @@
+----------------------------
+ REGISTRE DE MODIFICACIONS: 
+----------------------------
+01/05/2013
+	1. Actualització de table_prefix
+	
+08/02/2013
+	1. Clear Notice, Warning Errors
+
+08/01/2013
+	1. Obtener el listado de tablas de la base de datos.

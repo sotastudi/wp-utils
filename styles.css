@@ -1,0 +1,14 @@
+body{
+	font-family:"Lucida Grande";
+}
+
+.modul_util{
+	display: inline-block;
+	width: 450px;
+	padding: 10px;
+	background-color: #ccc;
+	border-radius: 5px;
+	border: 1px solid gray;
+	margin: 10px;
+	vertical-align: top;
+}

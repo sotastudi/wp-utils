@@ -1,0 +1,5 @@
+COSES PER FER
+-------------
+
+- Veure un llistat dels canvis
+- Veure la quantitat de resultats trobats
