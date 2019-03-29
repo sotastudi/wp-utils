@@ -1,11 +1,14 @@
 ----------------------------
- REGISTRE DE MODIFICACIONS: 
+ REGISTRE DE MODIFICACIONS:
 ----------------------------
-01/05/2013
+2019-03-29
+ - Init repository
+
+2013-05-01
 	1. Actualització de table_prefix
-	
-08/02/2013
+
+2013-02-08
 	1. Clear Notice, Warning Errors
 
-08/01/2013
+2013-01-08
 	1. Obtener el listado de tablas de la base de datos.
